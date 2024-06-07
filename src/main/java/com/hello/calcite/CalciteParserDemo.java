@@ -11,6 +11,11 @@ import org.apache.calcite.sql.parser.impl.SqlParserImpl;
 import org.apache.calcite.sql.pretty.SqlPrettyWriter;
 import org.apache.calcite.sql.validate.SqlConformanceEnum;
 
+/**
+ * Calcite Parser Demo
+ * <p>
+ * @author LeifChen
+ */
 @Slf4j
 public class CalciteParserDemo {
 
